@@ -15,9 +15,9 @@ By default, AirCat operates entirely in the browser using WebRTC, meaning **it c
 For advanced use cases, such as robust cross-network discovery behind strict NATs, an optional lightweight Node.js **Signaling Server** is provided.
 
 <div style="display: flex;">
-  <img src="./img/aircat_001.webp" width="20%">
-  <img src="./img/aircat_003.webp" width="20%">
-  <img src="./img/aircat_002.webp" width="20%">
+  <img src="./img/aircat_001.webp" width="30%">
+  <img src="./img/aircat_003.webp" width="30%">
+  <img src="./img/aircat_002.webp" width="30%">
 </div>
 
 ## ✨ Features
